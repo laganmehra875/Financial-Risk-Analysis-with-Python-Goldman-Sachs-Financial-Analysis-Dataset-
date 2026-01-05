@@ -44,3 +44,18 @@ Top-performing accounts showed strong positive net inflows exceeding ₹120K.
 Bottom-performing accounts experienced heavy net outflows exceeding ₹130K.
 
 Several high-balance accounts still exhibited negative net inflows, signaling potential cash-flow stress.
+
+
+### 4. Dormancy & Activity Levels
+
+Accounts were flagged as dormant when transaction gaps exceeded 60 days.
+
+Based on transaction frequency:
+
+Most customers fell into the Low Activity category.
+
+Very few customers showed sustained high monthly activity.
+
+This highlights a large base of passive or low-engagement customers.
+
+
