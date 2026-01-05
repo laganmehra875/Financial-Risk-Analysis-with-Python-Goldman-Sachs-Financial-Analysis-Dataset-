@@ -98,10 +98,12 @@ This indicates that transaction frequency alone does not predict higher balances
 ## 📊 Visual & Exploratory Insights
 
 Account balance distribution is right-skewed, with most balances concentrated in mid-range values.
+- <a href="https://github.com/laganmehra875/Financial-Risk-Analysis-with-Python-Goldman-Sachs-Financial-Analysis-Dataset-/blob/main/bell%20shaped.png"> Balance Distribution </s>
 
 Scatter plots show weak correlation between transaction volume and average balance.
 
 Boxplots revealed transaction outliers but within acceptable risk thresholds.
+
 
 
 
