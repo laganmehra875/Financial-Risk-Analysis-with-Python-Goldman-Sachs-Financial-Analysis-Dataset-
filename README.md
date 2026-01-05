@@ -35,3 +35,12 @@ Transactions are well distributed across Credit, Savings, Loan, and Current acco
 Monthly analysis revealed fluctuating credit and debit volumes, with debits (withdrawals, payments, transfers) dominating several periods.
 
 Net transaction flow varies significantly across accounts, indicating uneven liquidity behavior.
+
+
+### 3. Account Performance
+ 
+Top-performing accounts showed strong positive net inflows exceeding ₹120K.
+
+Bottom-performing accounts experienced heavy net outflows exceeding ₹130K.
+
+Several high-balance accounts still exhibited negative net inflows, signaling potential cash-flow stress.
