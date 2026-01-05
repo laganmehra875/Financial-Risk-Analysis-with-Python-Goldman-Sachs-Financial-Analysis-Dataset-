@@ -58,4 +58,11 @@ Very few customers showed sustained high monthly activity.
 
 This highlights a large base of passive or low-engagement customers.
 
+### 5. Customer Segmentation Insights
+ 
+High-net inflow customers are limited but crucial for revenue stability.
+
+High-frequency, low-balance customers were identified—indicating operational usage without balance accumulation.
+
+No significant number of accounts had persistent negative balances, but some showed near-zero average balances.****
 
