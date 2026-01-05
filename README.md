@@ -27,3 +27,11 @@ The dataset contains 800 transactions across 188 customers with no missing value
 Financial fields were successfully standardized, dates were validated, and categorical variables were normalized.
 
 No duplicate records were found, ensuring high data integrity.
+
+###2. Transactional Behavior Analysis
+   
+Transactions are well distributed across Credit, Savings, Loan, and Current accounts.
+
+Monthly analysis revealed fluctuating credit and debit volumes, with debits (withdrawals, payments, transfers) dominating several periods.
+
+Net transaction flow varies significantly across accounts, indicating uneven liquidity behavior.
