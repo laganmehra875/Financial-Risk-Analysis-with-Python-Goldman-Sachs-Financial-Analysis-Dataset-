@@ -19,3 +19,11 @@ Supporting insights with statistical hypothesis testing and visual analytics
 This project demonstrates how data analytics can support risk monitoring, customer segmentation, and decision-making in a financial institution.
 
 ## 🔍 Key Findings
+
+### 1. Data Quality & Structure
+
+The dataset contains 800 transactions across 188 customers with no missing values.
+
+Financial fields were successfully standardized, dates were validated, and categorical variables were normalized.
+
+No duplicate records were found, ensuring high data integrity.
