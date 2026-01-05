@@ -28,7 +28,7 @@ Financial fields were successfully standardized, dates were validated, and categ
 
 No duplicate records were found, ensuring high data integrity.
 
-###2. Transactional Behavior Analysis
+### 2. Transactional Behavior Analysis
    
 Transactions are well distributed across Credit, Savings, Loan, and Current accounts.
 
