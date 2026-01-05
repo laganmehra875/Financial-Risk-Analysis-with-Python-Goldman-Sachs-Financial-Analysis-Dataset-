@@ -66,3 +66,13 @@ High-frequency, low-balance customers were identified—indicating operational u
 
 No significant number of accounts had persistent negative balances, but some showed near-zero average balances.****
 
+
+### 6. Risk Identification & Volatility
+
+A small number of accounts showed overdraft behavior.
+
+Balance volatility analysis (Coefficient of Variation) identified accounts with unstable financial patterns.
+
+Z-score analysis detected balance anomalies, though transaction amount anomalies were minimal.
+
+No extreme suspicious transaction behavior was statistically confirmed, suggesting overall system stability.
