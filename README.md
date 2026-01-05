@@ -44,6 +44,8 @@ Transactions are well distributed across Credit, Savings, Loan, and Current acco
 Monthly analysis revealed fluctuating credit and debit volumes, with debits (withdrawals, payments, transfers) dominating several periods.
 
 Net transaction flow varies significantly across accounts, indicating uneven liquidity behavior.
+##### 📊 Visual & Exploratory Insights :
+- <a href="https://github.com/laganmehra875/Financial-Risk-Analysis-with-Python-Goldman-Sachs-Financial-Analysis-Dataset-/blob/main/line%20plot.png"> Monthly Credits vs Debits</a>
 
 
 ### 3. Account Performance
