@@ -27,6 +27,24 @@ This project demonstrates how data analytics can support risk monitoring, custom
 - <a href="https://github.com/laganmehra875/Financial-Risk-Analysis-with-Python-Goldman-Sachs-Financial-Analysis-Dataset-/blob/main/python%20project%20copy.ipynb"> Goldman Sachs Python Project </a>
 
 
+## 📘 Key Features of the Goldman Sachs PDF
+
+End-to-end financial risk analysis performed using Python
+
+Cleaned, formatted, and standardized raw transaction data
+
+Clear analysis of monthly and yearly credit–debit trends
+
+Identification of top and bottom performing accounts
+
+Detection of dormant and inactive accounts
+
+Customer segmentation based on net inflow, balance, and activity levels
+
+Financial risk identification using volatility and anomaly detection
+
+Data-driven business recommendations and conclusion
+
 ## 🔍 Key Findings
 
 ### 1. Data Quality & Structure
