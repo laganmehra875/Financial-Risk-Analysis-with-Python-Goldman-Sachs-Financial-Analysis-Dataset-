@@ -93,4 +93,20 @@ Statistical tests showed no significant difference in average balances between h
 This indicates that transaction frequency alone does not predict higher balances, an important insight for customer valuation models.
 
 
+## 📊 Visual & Exploratory Insights
+
+Account balance distribution is right-skewed, with most balances concentrated in mid-range values.
+
+Scatter plots show weak correlation between transaction volume and average balance.
+
+Boxplots revealed transaction outliers but within acceptable risk thresholds.
+
+
+
+
+
+
+
+
+
 
