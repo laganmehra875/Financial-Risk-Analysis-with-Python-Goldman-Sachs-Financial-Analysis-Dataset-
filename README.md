@@ -129,7 +129,11 @@ Boxplots revealed transaction outliers but within acceptable risk thresholds.
    Integrate Z-score or IQR-based alerts into real-time monitoring systems.
 
 
+## ✅ Conclusion
 
+This project successfully demonstrates how Python-based financial analytics can transform transactional data into meaningful business insights. Through structured data cleaning, exploratory analysis, customer profiling, and risk assessment, the analysis highlights both financial stability patterns and potential risk areas.
+
+The findings confirm that transaction behavior is multifaceted and must be analyzed alongside balance trends and volatility to accurately assess customer value and financial risk
 
 
 
