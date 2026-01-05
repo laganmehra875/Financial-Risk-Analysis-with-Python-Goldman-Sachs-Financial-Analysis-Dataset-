@@ -101,8 +101,10 @@ Account balance distribution is right-skewed, with most balances concentrated in
 - <a href="https://github.com/laganmehra875/Financial-Risk-Analysis-with-Python-Goldman-Sachs-Financial-Analysis-Dataset-/blob/main/bell%20shaped.png"> Balance Distribution </s>
 
 Scatter plots show weak correlation between transaction volume and average balance.
+- <a href="https://github.com/laganmehra875/Financial-Risk-Analysis-with-Python-Goldman-Sachs-Financial-Analysis-Dataset-/blob/main/scatter.png"> Average Balance vs. Total Transaction Volume </a>
 
 Boxplots revealed transaction outliers but within acceptable risk thresholds.
+- <a href=""> Transaction Amount Outliers </a> 
 
 
 
