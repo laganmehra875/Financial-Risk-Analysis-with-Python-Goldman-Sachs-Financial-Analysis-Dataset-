@@ -45,6 +45,8 @@ Financial risk identification using volatility and anomaly detection
 
 Data-driven business recommendations and conclusion
 
+- Jupyter LAB  PDF Presentation : <a href="https://github.com/laganmehra875/Financial-Risk-Analysis-with-Python-Goldman-Sachs-Financial-Analysis-Dataset-/blob/main/python%20proje%E2%80%A6%20-%20JupyterLab%20copy.pdf"> Goldman Sachs Presentation </a>
+
 ## 🔍 Key Findings
 
 ### 1. Data Quality & Structure
