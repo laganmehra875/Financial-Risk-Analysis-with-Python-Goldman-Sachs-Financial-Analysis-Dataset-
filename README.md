@@ -18,6 +18,10 @@ Supporting insights with statistical hypothesis testing and visual analytics
 
 This project demonstrates how data analytics can support risk monitoring, customer segmentation, and decision-making in a financial institution.
 
+
+## Goldman Sachs Raw Dataset Used :
+- <a href=""
+
 ## 🔍 Key Findings
 
 ### 1. Data Quality & Structure
