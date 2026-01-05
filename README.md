@@ -76,3 +76,12 @@ Balance volatility analysis (Coefficient of Variation) identified accounts with 
 Z-score analysis detected balance anomalies, though transaction amount anomalies were minimal.
 
 No extreme suspicious transaction behavior was statistically confirmed, suggesting overall system stability.
+
+### 7. Hypothesis Testing Results
+
+Statistical tests showed no significant difference in average balances between high-volume and low-volume transaction customers.
+
+This indicates that transaction frequency alone does not predict higher balances, an important insight for customer valuation models.
+
+
+
