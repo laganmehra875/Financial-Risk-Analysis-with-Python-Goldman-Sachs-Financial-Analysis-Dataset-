@@ -17,3 +17,5 @@ Detecting anomalies and potential financial risks
 Supporting insights with statistical hypothesis testing and visual analytics
 
 This project demonstrates how data analytics can support risk monitoring, customer segmentation, and decision-making in a financial institution.
+
+
