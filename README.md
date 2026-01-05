@@ -110,27 +110,21 @@ Boxplots revealed transaction outliers but within acceptable risk thresholds.
 ## 💡 Recommendations
 
 1. Target High-Net Inflow Customers
-
 Offer premium services and retention programs to customers contributing consistent positive inflows.
 
 2. Re-engage Dormant Accounts
-
 Launch engagement campaigns for inactive customers to increase transaction activity.
 
-3. Monitor High-Frequency Low-Balance Users
-   
+3. Monitor High-Frequency Low-Balance Users 
 These accounts may benefit from overdraft protection, micro-savings plans, or fee optimization.
 
-4. Enhance Risk Monitoring
- 
+4. Enhance Risk Monitoring 
 Continuously track balance volatility and overdraft signals to proactively manage risk.
 
-5. Improve Customer Valuation Models
-    
+5. Improve Customer Valuation Models    
 Combine transaction behavior with balance stability instead of relying solely on transaction volume.
 
-6. Automate Anomaly Detection
-    
+6. Automate Anomaly Detection   
 Integrate Z-score or IQR-based alerts into real-time monitoring systems.
 
 
