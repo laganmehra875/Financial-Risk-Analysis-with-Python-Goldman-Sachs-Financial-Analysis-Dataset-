@@ -23,6 +23,10 @@ This project demonstrates how data analytics can support risk monitoring, custom
 - <a href="https://github.com/laganmehra875/Financial-Risk-Analysis-with-Python-Goldman-Sachs-Financial-Analysis-Dataset-/blob/main/goldman_sachs.csv"> Raw Dataset used : Goldman sachs
 
 
+## Goldman Sachs Project :
+- <a href="">
+
+
 ## 🔍 Key Findings
 
 ### 1. Data Quality & Structure
